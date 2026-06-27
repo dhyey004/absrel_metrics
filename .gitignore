@@ -1,0 +1,11 @@
+# Virtual Environments
+venv/
+metrics/
+env/
+
+# Python Cache & Build files
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
