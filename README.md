@@ -14,5 +14,6 @@ We highly recommend installing this package inside a virtual environment to avoi
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/dhyey004/absrel_metrics.git](https://github.com/dhyey004/absrel_metrics.git)
+git clone https://github.com/dhyey004/absrel_metrics.git
 cd absrel_metrics
+pip install -e .
